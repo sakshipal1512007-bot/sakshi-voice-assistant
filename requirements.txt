@@ -1,0 +1,8 @@
+transformers
+tokenizers
+flask
+gradio
+requests
+pyttsx3
+speechrecognition
+pyaudio
