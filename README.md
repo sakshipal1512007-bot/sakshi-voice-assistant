@@ -29,8 +29,7 @@ Run the app:
 
 ---
 
-### 5. Usage / Run Instructions
-- Project कैसे चलाना है  
+### 5. Usage / Run Instructions 
 ```markdown
 ## Usage
 Run the app:
